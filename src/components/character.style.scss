@@ -1,0 +1,37 @@
+@mixin bodypart {
+  position: absolute;
+
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 75%;
+}
+
+.character {
+  height: 500px;
+  width: 300px;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 75%;
+
+  position: relative;
+
+  &__head {
+    /* then what? the whole component is a joke */
+    top: 186px;
+    left: 115px;
+
+    @include bodypart;
+  }
+
+  &__weapon {
+    top: 222px;
+    left: 199px;
+
+    @include bodypart;
+  }
+}

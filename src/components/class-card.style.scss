@@ -1,0 +1,9 @@
+.class-card-wrapper {
+  display: flex;
+  flex-direction: row;
+  .card {
+    width: 54px;
+    height: 54px;
+    margin: 4px;
+  }
+}

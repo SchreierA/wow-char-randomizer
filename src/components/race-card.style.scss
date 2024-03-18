@@ -1,0 +1,15 @@
+.race-card-wrapper {
+  height: 640px;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  .card {
+    margin: 8px;
+
+    &:nth-child(9) {
+      margin-top: 52px;
+    }
+  }
+}
