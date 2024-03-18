@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wow-char-randomizer/static/css/main.102c819d.css",
+    "main.js": "/wow-char-randomizer/static/js/main.8f968618.js",
+    "static/js/453.62722f8a.chunk.js": "/wow-char-randomizer/static/js/453.62722f8a.chunk.js",
+    "static/media/button-effect.png": "/wow-char-randomizer/static/media/button-effect.8c774643306416588156.png",
+    "index.html": "/wow-char-randomizer/index.html",
+    "main.102c819d.css.map": "/wow-char-randomizer/static/css/main.102c819d.css.map",
+    "main.8f968618.js.map": "/wow-char-randomizer/static/js/main.8f968618.js.map",
+    "453.62722f8a.chunk.js.map": "/wow-char-randomizer/static/js/453.62722f8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.102c819d.css",
+    "static/js/main.8f968618.js"
+  ]
+}
